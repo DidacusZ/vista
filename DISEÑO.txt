@@ -1,0 +1,31 @@
+h1{
+    color: #192255;
+    color: #285845;
+    color: #ff9900;
+    color: black;
+    color: white;
+}
+
+
+titulo izq 16pt
+cuerpos medio 24pt
+
+botones
+-positivas:crear,modificar..
+-negativas:eliminar,cancelar,ir hacia atras...
+
+cada tipo mismo diseño
+------
+login
+
+Acceso
+	-nuevo registro
+	-olvidado contraseña
+
+
+
+
+
+LOGO OTRO DIA
+
+
